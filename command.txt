@@ -1,0 +1,2 @@
+bycrypt = untuk HASH password agar di encrypt
+fastest-validator = untuk validasi semua request yang akan masuk ke handler validasi
